@@ -1,3 +1,25 @@
-h1 {
-  color: red;
+body {
+  background-image: url(./img/img2.jpeg);
+  opacity: 1;
+}
+th {
+  color: chocolate;
+  clip: inherit;
+  /* content: icon; */
+  /* text-transform: capitalize lowercase; */
+  /* text-align: center; */
+  font-style: italic;
+  /* font-size: 15px; */
+  opacity: 100%;
+  background-color: blue;
+  /* display: none; */
+  /* opacity: 0.1; */
+  visibility: hidden;
+}
+td {
+  color: blue;
+  font-size: medium;
+}
+span {
+  visibility: visible;
 }
